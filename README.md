@@ -6,6 +6,8 @@ Duration: July to August 2024
 Mentor: Mohammed Muzammil Ahmed
 
 Project Name: Temperature and Humidity Monitoring System with DHT Sensor
+![Uploading image.png…]()
+
 
 Objectives:
 
