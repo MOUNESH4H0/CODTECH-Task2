@@ -6,7 +6,9 @@ Duration: July to August 2024
 Mentor: Mohammed Muzammil Ahmed
 
 Project Name: Temperature and Humidity Monitoring System with DHT Sensor
+![image](https://github.com/MOUNESH4H0/CODTECH-Task2/assets/153296055/525aef80-f66f-42b6-b424-2deb8ccc1e0a)
 ![Uploading image.png…]()
+
 
 
 Objectives:
